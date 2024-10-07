@@ -8,7 +8,7 @@
 
 ## ③DEMO
 
-https://yukiourags.sakura.ne.jp/EnglishDBpr/login.php
+https://yukiourags.sakura.ne.jp/AdultLearning/login.php
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
